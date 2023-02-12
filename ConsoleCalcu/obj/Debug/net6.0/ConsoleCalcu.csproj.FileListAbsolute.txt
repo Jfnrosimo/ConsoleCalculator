@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\bin\Debug\net6.0\ConsoleCalcu.exe
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\bin\Debug\net6.0\ConsoleCalcu.deps.json
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\bin\Debug\net6.0\ConsoleCalcu.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\bin\Debug\net6.0\ConsoleCalcu.dll
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\bin\Debug\net6.0\ConsoleCalcu.pdb
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\obj\Debug\net6.0\ConsoleCalcu.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\obj\Debug\net6.0\ConsoleCalcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\obj\Debug\net6.0\ConsoleCalcu.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\obj\Debug\net6.0\ConsoleCalcu.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\obj\Debug\net6.0\ConsoleCalcu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\obj\Debug\net6.0\ConsoleCalcu.dll
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\obj\Debug\net6.0\refint\ConsoleCalcu.dll
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\obj\Debug\net6.0\ConsoleCalcu.pdb
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\obj\Debug\net6.0\ConsoleCalcu.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleCalcu\ConsoleCalcu\obj\Debug\net6.0\ref\ConsoleCalcu.dll
